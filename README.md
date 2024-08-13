@@ -11,3 +11,8 @@ Enhancing Scalability of Proof-of-Stake (PoS) Blockchain Consensus mechanism by 
 • Use reinforcement learning to adjust validator selection criteria based on performance metric.
 
 • Provide insights into the scalability challenges of PoS blockchain networks and efficient consensus mechanisms through innovative approaches to validator selection and machine learning.
+
+
+**Architecture Design**
+
+![image](https://github.com/user-attachments/assets/d1191ed6-28cb-4c1a-b609-9d854f8b7ec9)
